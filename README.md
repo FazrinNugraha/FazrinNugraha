@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhamad Fazrin Nugraha
 
 🎓 **Computer Science Student | Full-Stack Enthusiast**
-💡 Growing as a developer by building, breaking, and learning from every project.
+💡 Growing as a developer by building, coding, and learning from every project.
 
 ---
 
