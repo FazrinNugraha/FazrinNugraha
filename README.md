@@ -22,7 +22,7 @@ I'm a 5th semester Computer Science student at Universitas Gunadarma with a stro
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,express,nodejs,tailwind,mongodb,mysql,postman,vite" />
+<img src="https://skillicons.dev/icons?i=js,python,react,nextjs,typescript,astro,express,nodejs,tailwind,mongodb,mysql,postgresql,postman,vite" />
 </p>
 
 
