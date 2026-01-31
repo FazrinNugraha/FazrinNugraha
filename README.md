@@ -14,10 +14,7 @@
 
 ### 🔹 About Me
 
-* 🎓 Currently a **5th semester student** at *Universitas Gunadarma*
-* 🌱 Learning **JavaScript, React, Next.js, Node.js, Express.js, MongoDB**
-* 📚 Focused on **Web Development** & **Software Engineering**
-* ⚡ Fun fact: I enjoy solving problems and experimenting with new ideas
+I'm a 5th semester Computer Science student at Universitas Gunadarma with a strong passion for web development and software engineering. Currently expanding my technical expertise in modern JavaScript frameworks while exploring the exciting path of Machine Learning and AI Engineering. I thrive on solving complex problems and continuously seek opportunities to learn and apply new concepts through hands-on projects. My goal is to build scalable, user-centric applications that make a meaningful impact
 
 ---
 
