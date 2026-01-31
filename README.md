@@ -34,6 +34,7 @@
 ---
 
 ### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/FazrinNugraha/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=FazrinNugraha\&theme=merko\&hide_border=false\&include_all_commits=false\&count_private=false)
 
