@@ -27,8 +27,8 @@ I'm a 6th semester Computer Science student at Universitas Gunadarma with a stro
 
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=FazrinNugraha\&theme=merko\&hide_border=false) 
+![](https://nirzak-streak-stats.vercel.app/?user=FazrinNugraha\&theme=transparent\&hide_border=false) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FazrinNugraha\&theme=merko\&hide_border=false\&layout=compact) 
+
 
 
