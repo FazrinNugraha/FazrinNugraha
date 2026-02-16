@@ -20,15 +20,3 @@ I'm a 6th semester Computer Science student at Universitas Gunadarma with a stro
 <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,typescript,astro,express,nodejs,tailwind,mongodb,mysql,postgresql,postman,vite" />
 </p>
 
-
-
-
----
-
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=FazrinNugraha\&theme=transparent\&hide_border=false) 
-
-
-
-
