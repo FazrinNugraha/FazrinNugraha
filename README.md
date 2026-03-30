@@ -1,10 +1,6 @@
 # Hi 👋, I'm Muhamad Fazrin Nugraha
 
-### 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:nugrahafadzrin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhamad-fazrin-nugraha)
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://www.byfazrin.my.id/)
 ---
 
 ### 🔹 About Me
