@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://dummyimage.com/1200x500/090909/ffffff&text=Building+Things+That+Matter" alt="Banner" width="80%"/>
+  <img src="https://dummyimage.com/1200x500/090909/ffffff&text=Building+Things+That+Matter" alt="Banner" width="100%"/>
   <br/><br/>
 
   ### Check out my Portfolio here!
