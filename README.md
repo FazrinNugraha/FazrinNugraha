@@ -1,6 +1,13 @@
 # Hi 👋, I'm Muhamad Fazrin Nugraha
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://www.byfazrin.my.id/)
+<div align="center">
+
+<a href="https://www.byfazrin.my.id/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" height="80"/>
+</a>
+
+</div>
+
 ---
 
 ### 🔹 About Me
