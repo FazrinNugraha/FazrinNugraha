@@ -14,7 +14,11 @@
 
 ### About Me
 
-I'm a 6th semester Computer Science student at Universitas Gunadarma with a strong passion for web development and software engineering. Currently expanding my technical expertise in modern JavaScript frameworks while exploring the exciting path of Machine Learning and AI Engineering. I thrive on solving complex problems and continuously seek opportunities to learn and apply new concepts through hands-on projects. My goal is to build scalable, user-centric applications that make a meaningful impact
+Undergraduate student specializing in Software Engineering with experience in Full Stack Development and growing expertise in Artificial Intelligence and Generative AI. I build web applications with a focus on both frontend user experience and backend functionality while continuously expanding my skills in AI technologies, machine learning, and real-world AI implementation.
+
+Currently, I am transitioning toward an AI Engineer career path, exploring areas such as Generative AI, deep learning, neural networks, and AI-powered applications. I actively develop projects, learn emerging technologies, and enjoy collaborating with others to create innovative and impactful digital solutions.
+
+Interested in opportunities related to AI Engineering, Software Development, and connecting with the technology community.
 
 ---
 
