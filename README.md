@@ -25,5 +25,5 @@ Interested in opportunities related to AI Engineering, Software Development, and
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,typescript,astro,express,nodejs,tailwind,mongodb,mysql,postgresql,postman,vite&perrow=7" />
+  <img src="https://skillicons.dev/icons?i=,python,react,nextjs,typescript,astro,express,nodejs,tensorflow,tailwind,mongodb,mysql,postgresql,postman,vite&perrow=7" />
 </p>
