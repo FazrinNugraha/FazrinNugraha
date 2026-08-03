@@ -5,7 +5,7 @@
 
   ### Check out my Portfolio here!
 
-  <a href="https://www.byfazrin.my.id/">
+  <a href="https://www.byfazrin.dev/">
     <img src="https://img.shields.io/badge/%20MY%20PORTFOLIO-090909?style=for-the-badge&logoColor=white" height="80"/>
   </a>
 </div>
